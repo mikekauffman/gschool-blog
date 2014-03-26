@@ -1,5 +1,5 @@
 body {
-  background: #eeeeee;
+  background: #2E5D8A;
   font-family: "Lustria", "Helvetica Neue", "HelveticaNeue", Helvetica, sans-serif;
   font-size: 14px;
   line-height: 18px;
@@ -25,7 +25,15 @@ h1 {
   font-size: 3em;
 }
 h2 {
-  font-size: 2.5em;
+  font-size: 3em;
+    color: #D9CF8C;
+}
+a {
+    font-family: "Hoefler Text", "Baskerville old face", Garamond, "Times New Roman", serif;
+    color:#D75B63;
+}
+article {
+    color: #F7FAF0;
 }
 h3 {
   font-size: 2em;
